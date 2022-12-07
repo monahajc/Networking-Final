@@ -58,3 +58,281 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Adventure_Character/Scenes/Demo.unity
+Assets/Adventure_Character/Scenes/Demo.unity.meta
+Assets/Adventure_Character/Textures.meta
+Assets/Adventure_Character/Textures/Man_Body_Albedo.tga
+Assets/Adventure_Character/Textures/Man_Body_Albedo.tga.meta
+Assets/Adventure_Character/Textures/Man_Body_Ao.tga
+Assets/Adventure_Character/Textures/Man_Body_Ao.tga.meta
+Assets/Adventure_Character/Textures/Man_Body_Metallic.tga
+Assets/Adventure_Character/Textures/Man_Body_Metallic.tga.meta
+Assets/Adventure_Character/Textures/Man_Body_Normals.tga
+Assets/Adventure_Character/Textures/Man_Body_Normals.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Albedo_01.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Albedo_01.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Albedo_02.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Albedo_02.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Albedo_03.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Albedo_03.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Ao.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Ao.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Metallic.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Metallic.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Normals.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Down_Normals.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Albedo_01.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Albedo_01.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Albedo_02.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Albedo_02.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Albedo_03.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Albedo_03.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Ao.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Ao.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Metallic.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Metallic.tga.meta
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Normals.tga
+Assets/Adventure_Character/Textures/Man_Cloth_Up_Normals.tga.meta
+Assets/ArtAssets.meta
+Assets/ArtAssets/NoiseHex.png
+Assets/ArtAssets/NoiseHex.png.meta
+Assets/ArtAssets/PowerUp.shadergraph
+Assets/ArtAssets/PowerUp.shadergraph.meta
+Assets/Editor/RefreshOnEditorPlay.cs
+Assets/Editor/RefreshOnEditorPlay.cs.meta
+Assets/Kevin Iglesias.meta
+Assets/Kevin Iglesias/3DCharacterDummy.meta
+Assets/Kevin Iglesias/3DCharacterDummy/DemoScene.unity
+Assets/Kevin Iglesias/3DCharacterDummy/DemoScene.unity.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Materials.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Materials/DummyMaterial.mat
+Assets/Kevin Iglesias/3DCharacterDummy/Materials/DummyMaterial.mat.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Materials/FloorMaterial.mat
+Assets/Kevin Iglesias/3DCharacterDummy/Materials/FloorMaterial.mat.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Models.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Models/FemaleDummy.fbx
+Assets/Kevin Iglesias/3DCharacterDummy/Models/FemaleDummy.fbx.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Models/MaleDummy.fbx
+Assets/Kevin Iglesias/3DCharacterDummy/Models/MaleDummy.fbx.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Prefabs.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Prefabs/FemaleDummy.prefab
+Assets/Kevin Iglesias/3DCharacterDummy/Prefabs/FemaleDummy.prefab.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Prefabs/MaleDummy.prefab
+Assets/Kevin Iglesias/3DCharacterDummy/Prefabs/MaleDummy.prefab.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Readme.txt
+Assets/Kevin Iglesias/3DCharacterDummy/Readme.txt.meta
+Assets/Kevin Iglesias/3DCharacterDummy/SourceFiles.meta
+Assets/Kevin Iglesias/3DCharacterDummy/SourceFiles/Blender Source Files.zip
+Assets/Kevin Iglesias/3DCharacterDummy/SourceFiles/Blender Source Files.zip.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Textures.meta
+Assets/Kevin Iglesias/3DCharacterDummy/Textures/DummyTexture.png
+Assets/Kevin Iglesias/3DCharacterDummy/Textures/DummyTexture.png.meta
+Assets/Materials.meta
+Assets/Materials/Bullet.mat
+Assets/Materials/Bullet.mat.meta
+Assets/Materials/Column.mat
+Assets/Materials/Column.mat.meta
+Assets/Materials/DamageBoost_Mat.mat
+Assets/Materials/DamageBoost_Mat.mat.meta
+Assets/Materials/Eye.mat
+Assets/Materials/Eye.mat.meta
+Assets/Materials/Ground.mat
+Assets/Materials/Ground.mat.meta
+Assets/MazeGenerator.meta
+Assets/MazeGenerator/Animations.meta
+Assets/MazeGenerator/Animations/coin_rotation.anim
+Assets/MazeGenerator/Animations/coin_rotation.anim.meta
+Assets/MazeGenerator/Animations/CoinPrefab.controller
+Assets/MazeGenerator/Animations/CoinPrefab.controller.meta
+Assets/MazeGenerator/demo.unity
+Assets/MazeGenerator/demo.unity.meta
+Assets/MazeGenerator/demoSettings.lighting
+Assets/MazeGenerator/demoSettings.lighting.meta
+Assets/MazeGenerator/Materials.meta
+Assets/MazeGenerator/Materials/BallMaterial.mat
+Assets/MazeGenerator/Materials/BallMaterial.mat.meta
+Assets/MazeGenerator/Materials/BallPhysicsMaterial.physicMaterial
+Assets/MazeGenerator/Materials/BallPhysicsMaterial.physicMaterial.meta
+Assets/MazeGenerator/Materials/coin_tex.mat
+Assets/MazeGenerator/Materials/coin_tex.mat.meta
+Assets/MazeGenerator/Materials/FloorMaterial.mat
+Assets/MazeGenerator/Materials/FloorMaterial.mat.meta
+Assets/MazeGenerator/Materials/PillarMaterial.mat
+Assets/MazeGenerator/Materials/PillarMaterial.mat.meta
+Assets/MazeGenerator/Materials/WallMaterial.mat
+Assets/MazeGenerator/Materials/WallMaterial.mat.meta
+Assets/MazeGenerator/Meshes.meta
+Assets/MazeGenerator/Meshes/coin.fbm.meta
+Assets/MazeGenerator/Meshes/coin.fbx
+Assets/MazeGenerator/Meshes/coin.fbx.meta
+Assets/MazeGenerator/Meshes/Materials.meta
+Assets/MazeGenerator/Meshes/Materials/Material.mat
+Assets/MazeGenerator/Meshes/Materials/Material.mat.meta
+Assets/MazeGenerator/Meshes/Materials/No Name.mat
+Assets/MazeGenerator/Meshes/Materials/No Name.mat.meta
+Assets/MazeGenerator/Meshes/pillar.fbx
+Assets/MazeGenerator/Meshes/pillar.fbx.meta
+Assets/MazeGenerator/Meshes/wall.fbx
+Assets/MazeGenerator/Meshes/wall.fbx.meta
+Assets/MazeGenerator/Prefabs.meta
+Assets/MazeGenerator/Prefabs/BallPrefab.prefab
+Assets/MazeGenerator/Prefabs/BallPrefab.prefab.meta
+Assets/MazeGenerator/Prefabs/CoinPrefab.prefab
+Assets/MazeGenerator/Prefabs/CoinPrefab.prefab.meta
+Assets/MazeGenerator/Prefabs/Floor.prefab
+Assets/MazeGenerator/Prefabs/Floor.prefab.meta
+Assets/MazeGenerator/Prefabs/PillarPrefab.prefab
+Assets/MazeGenerator/Prefabs/PillarPrefab.prefab.meta
+Assets/MazeGenerator/Prefabs/WallPrefab.prefab
+Assets/MazeGenerator/Prefabs/WallPrefab.prefab.meta
+Assets/MazeGenerator/Scripts.meta
+Assets/MazeGenerator/Scripts/BasicMazeGenerator.cs
+Assets/MazeGenerator/Scripts/BasicMazeGenerator.cs.meta
+Assets/MazeGenerator/Scripts/DivisionMazeGenerator.cs
+Assets/MazeGenerator/Scripts/DivisionMazeGenerator.cs.meta
+Assets/MazeGenerator/Scripts/MazeCell.cs
+Assets/MazeGenerator/Scripts/MazeCell.cs.meta
+Assets/MazeGenerator/Scripts/MazeSpawner.cs
+Assets/MazeGenerator/Scripts/MazeSpawner.cs.meta
+Assets/MazeGenerator/Scripts/OldestTreeMazeGenerator.cs
+Assets/MazeGenerator/Scripts/OldestTreeMazeGenerator.cs.meta
+Assets/MazeGenerator/Scripts/RandomTreeMazeGenerator.cs
+Assets/MazeGenerator/Scripts/RandomTreeMazeGenerator.cs.meta
+Assets/MazeGenerator/Scripts/RecursiveMazeGenerator.cs
+Assets/MazeGenerator/Scripts/RecursiveMazeGenerator.cs.meta
+Assets/MazeGenerator/Scripts/RecursiveTreeMazeGenerator.cs
+Assets/MazeGenerator/Scripts/RecursiveTreeMazeGenerator.cs.meta
+Assets/MazeGenerator/Scripts/RollerBall.cs
+Assets/MazeGenerator/Scripts/RollerBall.cs.meta
+Assets/MazeGenerator/Scripts/TreeMazeGenerator.cs
+Assets/MazeGenerator/Scripts/TreeMazeGenerator.cs.meta
+Assets/MazeGenerator/Sounds.meta
+Assets/MazeGenerator/Sounds/Coin.wav
+Assets/MazeGenerator/Sounds/Coin.wav.meta
+Assets/MazeGenerator/Sounds/Hit.wav
+Assets/MazeGenerator/Sounds/Hit.wav.meta
+Assets/MazeGenerator/Sounds/Jump.wav
+Assets/MazeGenerator/Sounds/Jump.wav.meta
+Assets/MazeGenerator/Textures.meta
+Assets/MazeGenerator/Textures/ball_tex.png
+Assets/MazeGenerator/Textures/ball_tex.png.meta
+Assets/MazeGenerator/Textures/coin_tex.png
+Assets/MazeGenerator/Textures/coin_tex.png.meta
+Assets/Prefabs.meta
+Assets/Prefabs/Bullet.prefab
+Assets/Prefabs/Bullet.prefab.meta
+Assets/Prefabs/ChatUI.prefab
+Assets/Prefabs/ChatUI.prefab.meta
+Assets/Prefabs/DamageBoost.prefab
+Assets/Prefabs/DamageBoost.prefab.meta
+Assets/Prefabs/LobbyPlayerPanel.prefab
+Assets/Prefabs/LobbyPlayerPanel.prefab.meta
+Assets/Prefabs/Player.prefab
+Assets/Prefabs/Player.prefab.meta
+Assets/Prefabs/Player_1.prefab
+Assets/Prefabs/Player_1.prefab.meta
+Assets/Scenes.meta
+Assets/Scenes/.DS_Store
+Assets/Scenes/Arena1.unity
+Assets/Scenes/Arena1.unity.meta
+Assets/Scenes/Lobby.unity
+Assets/Scenes/Lobby.unity.meta
+Assets/Scenes/Main.unity
+Assets/Scenes/Main.unity.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scripts.meta
+Assets/Scripts/Bullet.cs
+Assets/Scripts/Bullet.cs.meta
+Assets/Scripts/BulletSpawner.cs
+Assets/Scripts/BulletSpawner.cs.meta
+Assets/Scripts/ChatUI.cs
+Assets/Scripts/ChatUI.cs.meta
+Assets/Scripts/GameData.cs
+Assets/Scripts/GameData.cs.meta
+Assets/Scripts/GameManager.cs
+Assets/Scripts/GameManager.cs.meta
+Assets/Scripts/LobbyManager.cs
+Assets/Scripts/LobbyManager.cs.meta
+Assets/Scripts/LobbyPlayerPanel.cs
+Assets/Scripts/LobbyPlayerPanel.cs.meta
+Assets/Scripts/Main.cs
+Assets/Scripts/Main.cs.meta
+Assets/Scripts/Player.cs
+Assets/Scripts/Player.cs.meta
+Assets/Scripts/PlayerInfo.cs
+Assets/Scripts/PlayerInfo.cs.meta
+Assets/Scripts/ServerCamera.cs
+Assets/Scripts/ServerCamera.cs.meta
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/Documentation.meta
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Assets/TextMesh Pro/Fonts.meta
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Assets/TextMesh Pro/Resources.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Assets/TextMesh Pro/Resources/Style Sheets.meta
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Assets/TextMesh Pro/Resources/TMP Settings.asset
+Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Assets/TextMesh Pro/Shaders.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+Assets/TextMesh Pro/Shaders/TMPro.cginc
+Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+Assets/TextMesh Pro/Sprites.meta
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.json
+Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Assets/TextMesh Pro/Sprites/EmojiOne.png
